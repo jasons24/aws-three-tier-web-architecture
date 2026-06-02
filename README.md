@@ -188,6 +188,3 @@ Successfully validated:
 ## Author
 
 Jason Soundara Rajan
-
-Master's in Computer Science  
-University of Texas at Arlington
