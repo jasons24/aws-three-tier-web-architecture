@@ -10,6 +10,8 @@ The objective of this project was to gain hands-on experience with AWS networkin
 
 ## Architecture
 
+![Architecture](screenshots/01-architecture-diagram.jpeg)
+
 ### Components
 
 - Amazon VPC
